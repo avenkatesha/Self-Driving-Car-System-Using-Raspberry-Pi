@@ -10,3 +10,5 @@ This project aims to demonstrate how to build a basic autonomous vehicle using a
 # Requirements
 Arduino IDE, Raspberry Pi Camera Interface, Python 3.9 
 Raspberry Pi,L298N Motor Driver, 4 DC Motor, Servo Motor, Rain Sensor 
+# Expected Outcome
+This project has successfully developed a system for self-driving car integrating Raspberry Pi with various sensors, actuators, and machine learning algorithms including YOLOv4 and Haar cascaded algorithms, has resulted in a robust system capable of vehicle control, obstacle detection, weather condition assessment, recognition of various road conditions, and navigation, marking a significant advancement in autonomous vehicle technology. This amalgamation of accessible hardware and advanced computer vision techniques has demonstrated promising results in perception, object detection, and decision-making, laying the groundwork for scalable and cost-effective autonomous driving solutions.
