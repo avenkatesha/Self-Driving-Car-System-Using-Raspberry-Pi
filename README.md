@@ -8,7 +8,5 @@ This project aims to demonstrate how to build a basic autonomous vehicle using a
 •	Integrate sensors such as cameras, ultrasonic sensors, and LIDAR to provide comprehensive environmental awareness for the self-driving car system.
 •	Implement fail-safe measures and redundancy systems to ensure the safety and reliability of the self-driving car.
 # Requirements
-#Software
 Arduino IDE, Raspberry Pi Camera Interface, Python 3.9 
-#Hardware
 Raspberry Pi,L298N Motor Driver, 4 DC Motor, Servo Motor, Rain Sensor 
